@@ -17,32 +17,8 @@ namespace ATM01.Tests.StepDefinitions
             throw new PendingStepException();
         }
 
-        [Then(@"the ATM should dispense \$(.*)")]
-        public void ThenTheATMShouldDispense(decimal amount)
-        {
-            // TODO: Implement ThenTheATMShouldDispense$
-            throw new PendingStepException();
-        }
+        //Populate rest of the step definitions here
 
-        [Then(@"the account balance should be \$(.*)")]
-        public void ThenTheAccountBalanceShouldBe(decimal balance)
-        {
-            // TODO: Implement ThenTheAccountBalanceShouldBe$
-            throw new PendingStepException();
-        }
-
-        [Then(@"the ATM should display an insufficient funds message")]
-        public void ThenTheATMShouldDisplayAnInsufficientFundsMessage()
-        {
-            // TODO: Implement ThenTheATMShouldDisplayAnInsufficientFundsMessage
-            throw new PendingStepException();
-        }
-
-        [Then(@"the account balance should remain \$(.*)")]
-        public void ThenTheAccountBalanceShouldRemain(decimal balance)
-        {
-            // TODO: Implement ThenTheAccountBalanceShouldBe$
-            throw new PendingStepException();
-        }
+        
     }
 }

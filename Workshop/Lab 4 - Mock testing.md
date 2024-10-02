@@ -15,16 +15,17 @@ This project builds upon ATM03 by introducing Moq testing for mocking certain de
 
 3. Open file - ATM03\SRC\ATM\ATM.cs and review the ATM logic
 
-This file should have the class "ATM" predefined 
+4. Open file - ATM04\SRC\Main\IAccountService.cs to review the moq integration logic
+
+5. Add step definitions in this file - ATM04\Tests\StepDefinitions\ATMOperationsSteps.cs
 
 
-this file should have two step definitions written already for review. You will need to add the rest of the definitions. Work within your team to define rest of the step definitions
 
 
 
 Once the application logic is added you can run the tests.
 
-Navigate to the ATM01 folder and run the tests now. Run the following commands.
+Navigate to the ATM04 folder and run the tests now. Run the following commands.
 
 ```
 dotnet test

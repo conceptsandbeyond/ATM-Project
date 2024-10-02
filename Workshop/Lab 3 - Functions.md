@@ -23,7 +23,7 @@ this file should have two step definitions written already for review. You will 
 
 Once the application logic is added you can run the tests.
 
-Navigate to the ATM01 folder and run the tests now. Run the following commands.
+Navigate to the ATM03 folder and run the tests now. Run the following commands.
 
 ```
 dotnet test

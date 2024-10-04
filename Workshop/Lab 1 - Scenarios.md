@@ -6,15 +6,10 @@ Lab 1 - Behaviour Scenario
 
 1. Make sure you are in your branch - feature/Student\<team number\>
 
-2. Bring in folder from base branch for the lab
-
-```
-git checkout base -- ATM00
-```
+2. Open folder  ATM00
 
 3. Open file - ATM00\Tests\Features\ATMOperations.feature
 
-This file contains the scenarios that you need to add for behaviour testing. 
 
 Write the following two scenarios and commit your changes
 
@@ -23,7 +18,8 @@ Write the following two scenarios and commit your changes
 
 assuming the account balance of $1000, if user requests to withdraw $200, ATM will dispence $200 and remaining balance changes to $800
 
-2. Scenario 2 - Withdraw cash when balance is insufficient 
+2. Scenario 2 - Withdraw cash when balance is insufficient
+ 
 assuming the account balance of $100, if user requests to withdraw $200, ATM will display insufficient funds message and remaining balance remains to $100
 
 

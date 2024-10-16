@@ -47,6 +47,17 @@ dotnet test
 
 2. Open and review the file ATM02\Tests\StepDefinitions\ATMOperationsSteps.cs
 
+This is the continuation of the file that you reviewed in the previous step. 
+
+
+As of now there is no function written to test yet. So in this file you will simulate the funciton behaviour.
+
+
+Review the file and add function logic and missing assert statements.
+
+
+After completing this file, you should be able to test the functions.
+
 
 
 Navigate to the ATM02 folder and run the tests now. Run the following commands.

@@ -13,29 +13,29 @@ This project builds upon ATM00 by providing the feature file and step definition
 2. Navigate to folder ATM01
 
 
-3. Open file - ATM01\Tests\Features\ATMOperations.feature
+3. Open and review file - ATM01\Tests\Features\ATMOperations.feature
 
 This file should have the scenarios predefined 
 
-4. Open and review the file ATM01\Tests\StepDefinitions\ATMOperationsSteps.cs
+4.  Navigate to the ATM01 folder and run the following command to create the code for feature file.
 
-this file should have two step definitions written already for review. You will need to add the rest of the definitions. Work within your team to define rest of the step definitions
+```
+cd ATM01
+dotnet build
+```
 
 
+5. Open and review the file ATM01\Tests\StepDefinitions\ATMOperationsSteps.cs
 
-Once all the definitions are added you can run the tests now.
+This file should have step definitions skeleton with functions to bound with feature files. You would be using these functions to write your application test logic.
+
+
 
 Navigate to the ATM01 folder and run the tests now. Run the following commands.
 
 ```
 cd ATM01
 dotnet test
-```
-
-Commit your changes
-```
-git add .
-git commit -m "adding Step definitions"
 ```
 
 
@@ -55,8 +55,3 @@ Navigate to the ATM02 folder and run the tests now. Run the following commands.
 dotnet test
 ```
 
-Commit your changes
-```
-git add .
-git commit -m "adding Step definitions"
-```

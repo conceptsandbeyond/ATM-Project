@@ -4,11 +4,12 @@ Lab 1 - Behaviour Scenario
 
 ## <b>**Write Scenario for Feature ATM Operations**</b>
 
-1. Make sure you are in your branch - feature/Student\<team number\>
 
-2. Open folder  ATM00
+**Working Directory - ATM01**
 
-3. Open file - ATM00\Tests\Features\ATMOperations.feature
+1. Open folder  ATM00
+
+2. Open file - ATM00\Tests\Features\ATMOperations.feature
 
 
 Write the following two scenarios and commit your changes
@@ -23,13 +24,7 @@ assuming the account balance of $1000, if user requests to withdraw $200, ATM wi
 assuming the account balance of $100, if user requests to withdraw $200, ATM will display insufficient funds message and remaining balance remains to $100
 
 
-No need to run tests yet, just commit your changes
-
-```
-git add .
-git commit -m "adding scenarios"
-```
-
+No need to run tests yet.
 
 ## Example Feature
 

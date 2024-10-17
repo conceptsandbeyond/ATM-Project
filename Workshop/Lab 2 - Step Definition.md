@@ -56,13 +56,14 @@ As of now there is no function written to test yet. So in this file you will sim
 Review the file and add function logic and missing assert statements.
 
 
-After completing this file, you should be able to test the functions.
+Once completed, you should be able to test the functions.
 
 
 
 Navigate to the ATM02 folder and run the tests now. Run the following commands.
 
 ```
+cd ATM02
 dotnet test
 ```
 

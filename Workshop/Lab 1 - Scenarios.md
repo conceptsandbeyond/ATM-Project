@@ -5,7 +5,7 @@ Lab 1 - Behaviour Scenario
 ## <b>**Write Scenario for Feature ATM Operations**</b>
 
 
-**Working Directory - ATM01**
+**Working Directory - ATM00**
 
 1. Open folder  ATM00
 

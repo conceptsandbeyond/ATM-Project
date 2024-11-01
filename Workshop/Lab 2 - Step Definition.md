@@ -25,7 +25,7 @@ dotnet build
 ```
 
 
-5. Open and review the file ATM01\Tests\StepDefinitions\ATMOperationsSteps.cs
+4. Open and review the file ATM01\Tests\StepDefinitions\ATMOperationsSteps.cs
 
 This file should have step definitions skeleton with functions to bound with feature files. You would be using these functions to write your application test logic.
 
